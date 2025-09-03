@@ -50,12 +50,6 @@ Key visualisations (in `/figures/`):
 - `single_*.png` → Single-agent PPO performance  
 - `train_*` → Training return/entropy curves  
 
-Example:  
-
-<p align="center">
-  <img src="figures/marl_equity.png" alt="MARL Equity Curve" width="500"/>
-</p>
-
 ---
 
 ## ⚙️ Repository Structure
