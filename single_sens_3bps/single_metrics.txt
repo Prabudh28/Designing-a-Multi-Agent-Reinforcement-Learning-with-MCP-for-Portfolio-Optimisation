@@ -1,0 +1,2 @@
+Sharpe=1.865, Sortino=2.584, MaxDD=0.032
+PSR(>0)=0.902, DSR~(N=10, rho=0.5)=0.648, Bootstrap-p(one-sided)=0.092
