@@ -4,7 +4,7 @@
 
 # Multi-Agent Reinforcement Learning with MCP for Dynamic Portfolio Allocation
 
-This repository accompanies my MSc Finance & Technology dissertation:  
+This repository accompanies my MSc Fintech with Business Analytics, dissertation:  
 **“Multi-Agent Reinforcement Learning with Context Sharing for Portfolio Optimisation”**.  
 
 The project develops and evaluates a **context-aware MARL framework** for intraday portfolio management. It integrates **Centralised Training with Decentralised Execution (CTDE)** and a lightweight **Model Context Protocol (MCP)** for risk-aware coordination. Performance is benchmarked against single-agent PPO and classic portfolio heuristics (Equal-Weight, Inverse-Volatility, Minimum-Variance) under realistic **transaction costs and market frictions**.
