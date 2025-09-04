@@ -2,7 +2,7 @@
 # Developing a Multi-Agent Reinforcement Learning (MARL) framework employing the Model Context Protocol (MCP) for Dynamic Asset Allocation within Algorithmic Trading Environments” 
 
 
-# Multi-Agent Reinforcement Learning with MCP for Dynamic Portfolio Allocation
+
 
 This repository accompanies my MSc Fintech with Business Analytics, dissertation:  
 **“Multi-Agent Reinforcement Learning with Context Sharing for Portfolio Optimisation”**.  
